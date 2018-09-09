@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-{% include image.html url="/images/me.jpg" width=300 align="right" %}
+{% include image.html url="/images/me.jpg" width=250 align="right" %}
 
 I am a graduate student pursuing a Masters in Intelligent Information Systems at LTI, Carnegie Mellon University (SCS). I’m currently working with Professor Jamie Callan on High Recall Entity Linking.
 
