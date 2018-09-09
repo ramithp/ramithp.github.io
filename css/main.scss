@@ -7,7 +7,7 @@
 
 // Our variables
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-$base-font-size:   .95em;
+$base-font-size:   1em;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -58,3 +58,27 @@ $on-laptop:        950px;
         "syntax-highlighting",
 	"fancy-image"
 ;
+
+// scrollbar
+.events {
+	height: 90px;
+    overflow: auto;
+}
+
+.container {
+    height: 105px;
+}
+
+// 30-70 table
+.researchtable {
+    border-collapse: collapse;
+}
+
+.researchtable th, .researchtable td {
+    border-bottom: 1px solid;
+    padding: 8px;
+}
+
+.researchtable td.img {
+    width: 30%;
+}
