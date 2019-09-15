@@ -23,6 +23,8 @@ email: rpadaki[at]cs.cmu.edu / ramith.padaki[at]gmail.com
 
 <div class="container">
 <div class="events" markdown="1" >
+- August '19: Completed a very successful summer at [Balbix Inc.](https://balbix.com)! Worked on knowledge representations and worked with some really interesting people.
+- May '19: Joined [Balbix Inc.](https://balbix.com) as an ML Intern. Was advised by [Dr. Pavan Ramkumar](https://www.linkedin.com/in/pavan-ramkumar-ba8a2623/).
 - September '18: Joined [Dr. Jamie Callan](https://www.cs.cmu.edu/~callan/)'s group.
 - August '18: Started grad study at CMU. 
 - July '15 - July '18: Worked at Amazon.  
