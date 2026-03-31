@@ -15,9 +15,6 @@ I'm deeply interested in applied machine learning and information retrieval. Pre
 
 </div>
 
-# Contact
-email: rpadaki[at]cs.cmu.edu / ramith.padaki[at]gmail.com
-
 # News & Activities
 ---
 
